@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../inso-sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou_service_buyer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou_service_page" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou_service_search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou_service_seckill" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou_service_sellergoods" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou_service_user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou_web_manager1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou_web_protal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou_web_protal/src/main/resources/spring/spring-security.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pinyougou_web_seckill" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou_web_seckill/src/main/resources/spring/spring-security.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pinyougou_web_seckill/src/main/webapp/login.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pinyougou_web_shop1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou_web_user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou_web_user/src/main/resources/spring/spring-security.xml" charset="GBK" />
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../pinyougou_service_seckill" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_service_buyer" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_service_page" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_service_search" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_service_seckill" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_service_sellergoods" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_service_user" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_web_manager" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_web_manager1" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_web_protal" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_web_seckill" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_web_shop1" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_web_user" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../inso-sms/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/pinyougou_web_manager/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_web_shop/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

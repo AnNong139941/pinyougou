@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pinyougou_web_protal:war">
+    <output-path>$PROJECT_DIR$/pinyougou_web_protal/target</output-path>
+    <root id="archive" name="pinyougou_web_protal.war">
+      <element id="artifact" artifact-name="pinyougou_web_protal:war exploded" />
+    </root>
+  </artifact>
+</component>
